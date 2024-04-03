@@ -4,7 +4,7 @@ import {getFirestore} from "firebase/firestore"
 import {getStorage} from 'firebase/storage'
 
 const firebaseConfig = {
-  apiKey: process.env.API_KEY ,
+  apiKey: "AIzaSyB25QeOmO1EZRs1HalzZDn_N5mqVr004X8" ,
   authDomain: "olx-clone-34446.firebaseapp.com",
   projectId: "olx-clone-34446",
   storageBucket: "olx-clone-34446.appspot.com",
