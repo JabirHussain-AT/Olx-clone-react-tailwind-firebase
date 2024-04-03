@@ -3,9 +3,9 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import React from "react";
 
-import Image1 from "../../assets/Product1.webp";
-import Image2 from "../../assets/Product1.webp";
-import Image3 from "../../assets/AdBanner.png";
+import Image1 from "../../../public/Product1.webp";
+import Image2 from "../../../public/Product1.webp";
+import Image3 from "../../../public/AdBanner.png";
 
 const Carosal = () => {
   const carouselSettings = {

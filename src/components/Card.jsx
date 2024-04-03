@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ProductImage from "../assets/Product1.webp";
+import ProductImage from "../../public/Product1.webp";
 import { useNavigate } from "react-router-dom";
 import { useData } from "../context/ProductContext";
 

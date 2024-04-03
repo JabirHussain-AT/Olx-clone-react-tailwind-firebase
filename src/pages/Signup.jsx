@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { AiOutlineClose } from 'react-icons/ai';
-import googleIcon from '../assets/g-icon.png';
+import googleIcon from '../..public/g-icon';
 import Carosal from '../components/Signup.jsx/Carosal';
 import Form from '../components/Signup.jsx/Form';
 import { AuthContext } from '../context/AuthContext';
