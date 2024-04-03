@@ -1,5 +1,5 @@
 import React, { useState, useContext } from "react";
-import Logo from "../assets/olx-logo.png";
+import Logo from "../assets/Olx-Logo-8TT-ipGt.png";
 import { FiSearch, FiMapPin, FiChevronUp, FiChevronDown } from "react-icons/fi";
 import { useNavigate } from 'react-router-dom'
 import { BiTargetLock, BiCheck, BiPlus } from "react-icons/bi";
